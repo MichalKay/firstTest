@@ -16,6 +16,7 @@ namespace Praktyka
                 if (i % 3 == 0)
                 {
                     count++;
+
                 }
             }
             Console.WriteLine("There are " + count + " numbers between 1 and 100 that are divisible by 3 with no remainder.");
